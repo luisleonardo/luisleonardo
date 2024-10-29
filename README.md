@@ -1,16 +1,15 @@
-## Hi there 👋
+## Just a Random Bio from a Random Cybersecurity Guy 👋
 
-<!--
-**luisleonardo/luisleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 about_me
+I'm both an enthusiast and a professional in cybersecurity and infosec, with a unique passion for hardware hacking (SDR, BadUSB, Wi-Fi Jamming/Deauth, etc). At this point, I can no longer distinguish between my profession and my hobby — they've become one and the same.
 
-Here are some ideas to get you started:
+## ⚡fun_facts
+My perfect night? A glass of wine and a good incident post-mortem.
+I am also always up for a solid OSINT challenge or a frantic CTF.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 how_to_reach_me
+-   Private message here on GitHub
+-   [**Linkedin**](https://linkedin.com/in/luisleonardopt)
+*PS: I'm not open to any proposals other than FOSS projects.*
+
+![random gui stats](https://github-readme-stats.vercel.app/api?username=luisleonardo&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
