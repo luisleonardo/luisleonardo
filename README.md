@@ -12,4 +12,5 @@ I am also always up for a solid OSINT challenge or a frantic CTF.
 -   [**Linkedin**](https://linkedin.com/in/luisleonardopt)
 *PS: I'm not open to any proposals other than FOSS projects.*
 
-![random gui stats](https://github-readme-stats.vercel.app/api?username=luisleonardo&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![luisleonardo's Stats](https://github-readme-stats.vercel.app/api?username=luisleonardo&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![luisleonardo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisleonardo&theme=dark&hide_border=true)
